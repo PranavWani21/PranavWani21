@@ -5,7 +5,7 @@
 <br> <br>
 <img 
  align="right" alt="Coding" height="300px" width ="300px" src="https://github.com/PranavWani21/PranavWani21/blob/main/static/img/python.png" >
-<br> 
+
 - 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Django**
