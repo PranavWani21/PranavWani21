@@ -20,7 +20,7 @@
 
 <br> <br>
 <img 
- align="right" alt="Coding" height="280px" width ="280px" src="https://github.com/PranavWani21/PranavWani21/blob/main/static/img/coffee.png" >
+ align="right" alt="Coding" height="280px" width ="280px" src="https://github.com/PranavWani21/PranavWani21/blob/main/static/img/coffee cropped.png" >
  
 <h3 >Connect with me:</h3>
 <p align="left">
