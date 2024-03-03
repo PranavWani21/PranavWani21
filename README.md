@@ -1,10 +1,10 @@
-[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://pranavwani21.github.io/pranavwani.github.io/)
+[![MasterHead](https://github.com/PranavWani21/PranavWani21/blob/main/static/img/banner.gif)](https://pranavwani21.github.io/pranavwani.github.io/)
 <h1 align="center">Hi 👋, I'm Pranav Wani</h1>
  <h3 align="center">A Student | Developer | Explorer</h3>
 <!-- (img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966") -->
 
 <img 
- align="right" alt="Coding" height="350px" width ="350px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*W5_WMS72vBn74iqs.gif" >
+ align="right" alt="Coding" height="350px" width ="350px" src="https://github.com/PranavWani21/PranavWani21/blob/main/static/img/github.gif" >
 <br> <br>
 - 🔭 I’m currently working on **Machine Learning**
 
