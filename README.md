@@ -19,10 +19,7 @@
 - 📫 How to reach me <a href="mailto:pranavwani18@gmail.com">**Through mail**</a>
 
 <br> <br>
-<img 
- align="right" alt="Coding" height="280px" width ="280px" src="https://github.com/PranavWani21/PranavWani21/blob/main/static/img/coffee cropped.png" >
- 
-<h3 >Connect with me:</h3>
+<h3 align="left" >Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranavwani21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavwani21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranav-wani-b2833b212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-wani-b2833b212" height="30" width="40" /></a>
